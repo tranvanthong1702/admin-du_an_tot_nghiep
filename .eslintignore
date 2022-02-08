@@ -1,0 +1,6 @@
+/node_module/**
+/build/**
+/config/**
+/scripts/**
+/public/**
+/src/**/*.scss
